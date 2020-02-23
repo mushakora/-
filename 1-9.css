@@ -56,21 +56,18 @@ main{
 }
 @media screen and (max-width: 768px){
 	main{
-		width: 90%;
-		margin: 50px auto;
+		width: 100%;
+		margin: 50px 5%;
 	}
 	.step-box{
-		width: 100%;
+		width: 90%;
 		margin: 0 auto;
 	}
 	.step1{
-		width: 90%;
 	}
 	.step2{
-		width: 90%;
 	}
 	.step3{
-		width: 90%;
 	}
 	.step-box:first-child,
 	.step-box:nth-child(2) {
